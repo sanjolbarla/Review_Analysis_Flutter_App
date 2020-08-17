@@ -1,6 +1,6 @@
-# sentiment_analysis
+# Review Analysis
 
-Application for showing stock changes of companies using Flutter Framework.
+Application for showing the reviews, showing either it's is positive or negative.
 
 ## Images
 
